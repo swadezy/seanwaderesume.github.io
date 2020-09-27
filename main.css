@@ -1,7 +1,12 @@
 body {
 	font: 16px Georgia
-	background: url(background.png);
+	background-image: url(background.png);
 }
+
+#widthstyle {
+	margin-top: 30px
+	margin-left: 150px
+	margin-right: 150px
 
 #pic {
 	float: right
